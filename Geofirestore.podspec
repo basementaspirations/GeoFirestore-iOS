@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Geofirestore'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Realtime location queries with Firebase Cloud Firestore.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ An alternative to the GeoFire library provided by Firebase, but compatible with 
 
   s.source_files = 'Geofirestore/Classes/**/*'
   
-  s.swift_version = '4.0'
+  s.swift_version = '4.2'
   
   # s.resource_bundles = {
   #   'Geofirestore' => ['Geofirestore/Assets/*.png']

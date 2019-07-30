@@ -53,7 +53,7 @@ PODS:
     - GoogleUtilities/UserDefaults (~> 5.2)
   - GeoFire (3.0.0):
     - Firebase/Database (~> 5.0)
-  - Geofirestore (1.0.0):
+  - Geofirestore (1.0.2):
     - Firebase
     - FirebaseCore
     - FirebaseFirestore
@@ -148,7 +148,7 @@ SPEC CHECKSUMS:
   FirebaseFirestore: faca891c0f0d1d6c10c793473e2f6a29d75014b5
   FirebaseInstanceID: a122b0c258720cf250551bb2bedf48c699f80d90
   GeoFire: e3ae6f4be3f2466c3467ef6c1c203db3af935c59
-  Geofirestore: 0bfa94b5568614151c384cfa834bdb4c3636eaf0
+  Geofirestore: 46c079cf1ceeb03e77e7b2e4a3e65530527b6f95
   GoogleAppMeasurement: ffe513e90551844a739e7bcbb1d2aca1c28a4338
   GoogleUtilities: 04fce34bcd5620c1ee76fb79172105c74a4df335
   "gRPC-C++": e76441995900ac90e9bd98644ab4733f12521edf
